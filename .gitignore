@@ -1,0 +1,12 @@
+# Ignore the service account key file
+/config/serviceAccountKey.json
+
+
+# Ignore node_modules
+/node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore logs
+/logs/
